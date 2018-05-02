@@ -2,10 +2,11 @@
 
 
 A) Basic Model : Use data features after preprocessing
+[Evaluating all Models](https://github.com/nishantrathi100/NewsTrendsAnalytics/blob/master/Model_Evaluations.ipynb)
 
 
 B) Rank Based Model: Considers popularity of one news item affecting share value of other news items.
-[Evaluating all Models] (https://github.com/nishantrathi100/NewsTrendsAnalytics/blob/master/Model_Evaluations.ipynb)
+[Evaluating all Models](https://github.com/nishantrathi100/NewsTrendsAnalytics/blob/master/Model_Evaluations.ipynb)
 
 C) Dimension Reductionality + Rank Model - Dimensionality reduction used along with the rank model for prediction.
 [Notebook](https://github.com/nishantrathi100/NewsTrendsAnalytics/blob/master/DRModel.ipynb)
@@ -19,3 +20,4 @@ E) Time Series Based -  Used Recurrentmd Neural Network LSTM cells.
 [Notebook](https://github.com/nishantrathi100/NewsTrendsAnalytics/blob/master/FB_Shares_Deep_Learning_Time_Series.ipynb)
 
 
+F) [Dashboard analytics](https://github.com/nishantrathi100/NewsTrendsAnalytics/blob/master/Dashboard.ipynb)
